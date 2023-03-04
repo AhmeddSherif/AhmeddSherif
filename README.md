@@ -12,8 +12,6 @@
   💻 I love Writing code, Hardware and learning anything about them 😊.
   <br>
   📚 I’m currently focusing on Competitive Programming. 
-  <br>
-  📫 How to reach me 👇
 </p>
 
 ### Contact Me:
