@@ -1,5 +1,3 @@
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
-
 <h1 align="center">
     Hello there, I'm Ahmed <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
 </h1>
@@ -56,7 +54,7 @@
 
 <hr>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/ahmeddsherif" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+  <a href="https://www.buymeacoffee.com/ahmeddsherif" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="AhmeddSherif buy me a coffee" width="230"></a>
   <br>
   <br>
 </p>
