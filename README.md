@@ -7,9 +7,9 @@
   Hi, I'm Ahmed Sherif, Competitive Programmer & Software Developer from EGYPT 🇪🇬
   <br>
   <br>
-  👨‍🎓 I'm a 14 year-old programmer with about 7 years.
+  👨‍🎓 I'm a 15-year-old programmer with about 8 years.
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊.
+  💻 I love Writing code and hardware and learning everything about them 😊.
   <br>
   📚 I’m currently focusing on Competitive Programming. 
 </p>
